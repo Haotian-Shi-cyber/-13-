@@ -17,7 +17,7 @@ int main()
     mouse_event(MOUSEEVENTF_LEFTDOWN | MOUSEEVENTF_LEFTUP, 0, 0, 0, 0);
     mouse_event(MOUSEEVENTF_LEFTDOWN | MOUSEEVENTF_LEFTUP, 0, 0, 0, 0);
 
-    //3. wait for 5 seconds
+    //3. wait for 10 seconds
     Sleep(10000);
 
     //4. move to 看电视 and click
